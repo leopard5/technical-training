@@ -21,5 +21,7 @@ A variety of technical ppt written by myself
 ![spring_cloud](https://github.com/leopard5/images-folder/blob/master/technical-training/spring_cloud.png)
 ## 10. **service_mesh**
 ![service_mesh](https://github.com/leopard5/images-folder/blob/master/technical-training/service_mesh.png)
-## 11. **scrum**
+## 11. **Artificial Intelligence**
+![service_mesh](https://github.com/leopard5/images-folder/blob/master/technical-training/ai.jpg)
+## 12. **scrum**
 ![scrum](https://github.com/leopard5/images-folder/blob/master/technical-training/scrum.png)
