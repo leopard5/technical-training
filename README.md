@@ -17,11 +17,13 @@ A variety of technical ppt written by myself
 ![springframework](https://github.com/leopard5/images-folder/blob/master/technical-training/springframework.png)
 ## 8. **microservices**
 ![microservices](https://github.com/leopard5/images-folder/blob/master/technical-training/microservices.png)
-## 9. **spring_cloud**
+## 9. **spring cloud**
 ![spring_cloud](https://github.com/leopard5/images-folder/blob/master/technical-training/spring_cloud.png)
-## 10. **service_mesh**
+## 10. **problem troubleshooting tool**
+![service_mesh](https://github.com/leopard5/images-folder/blob/master/technical-training/problem_troubleshooting.png)
+## 11. **service_mesh**
 ![service_mesh](https://github.com/leopard5/images-folder/blob/master/technical-training/service_mesh.png)
-## 11. **Artificial Intelligence**
+## 12. **Artificial Intelligence**
 ![service_mesh](https://github.com/leopard5/images-folder/blob/master/technical-training/ai.jpg)
-## 12. **scrum**
+## 13. **scrum**
 ![scrum](https://github.com/leopard5/images-folder/blob/master/technical-training/scrum.png)
